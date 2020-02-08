@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1577270131 source:c:\users\rádi kristóf\desktop\munkáim\sdllife\legyenonismilliomos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<stdbool.h>
+	<locale.h>
+	<windows.h>
+
